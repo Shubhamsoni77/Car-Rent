@@ -9,7 +9,7 @@ import AdminDashBoard from './pages/AdminDashBoard'
 import AllCarsPage from './pages/AllCarsPage'
 import AllRentalPage from './pages/AllRentalPage'
 import AllReview from './pages/AllReviews'
-import UserRentalPage from './pages/userRentalPage';
+import UserRentalPage from './pages/UserRentalPage';
 import UserCarDetail from './pages/UserCarDetail'
 import Booking from './pages/Booking'
 import SearchPage from './pages/SearchPage'
